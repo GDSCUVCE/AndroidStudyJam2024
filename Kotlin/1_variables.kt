@@ -2,9 +2,9 @@
 
 fun main() {
     val myInt:  = 42 
-    val myDouble: Double 
-    val myBoolean: 
-    val myString: String = Hello, Kotlin!
+    val myDouble: Double = 3.14
+    val myBoolean: Boolean = true
+    val myString: String = "Hello, Kotlin!"
 }
 
 //correct the given code
