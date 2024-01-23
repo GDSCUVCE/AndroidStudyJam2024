@@ -2,7 +2,7 @@
 
 fun main() {
     val myInt:  = 42 
-    val myDouble: Double 
+    val myDouble: Double = 3.14
     val myBoolean: 
     val myString: String = Hello, Kotlin!
 }
