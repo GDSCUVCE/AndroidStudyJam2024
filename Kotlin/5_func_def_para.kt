@@ -1,6 +1,9 @@
 // Create a function called printInfo that takes a name and an age as parameters. Age should have a default value of 25. Print the information.
 
 // you function here
+fun printInfo(name: String, age: Int = 25){
+    println("Name: $name, Age: $age)
+}
 
 
 fun main() {
